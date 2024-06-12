@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.1de0f3c1.css",
+    "main.js": "/mywebsite/static/js/main.262826b2.js",
+    "static/media/ecommerce.mp4": "/mywebsite/static/media/ecommerce.99104f6819364c02dec6.mp4",
+    "static/media/contries.mp4": "/mywebsite/static/media/contries.21a11e30ef9ed64f8568.mp4",
+    "static/media/littlelemonSQLite.mp4": "/mywebsite/static/media/littlelemonSQLite.930d049cf12be8f85358.mp4",
+    "static/media/NotesAppDjango.mp4": "/mywebsite/static/media/NotesAppDjango.93ba5f29678322cba205.mp4",
+    "static/media/todoList.mp4": "/mywebsite/static/media/todoList.d36f33f7927acd78cc39.mp4",
+    "static/media/faq-component.mp4": "/mywebsite/static/media/faq-component.365b11e0e795b1049e26.mp4",
+    "static/media/littlelemonMySql.mp4": "/mywebsite/static/media/littlelemonMySql.2666da247a4be8c33f1d.mp4",
+    "static/media/rock-paper-scissors.mp4": "/mywebsite/static/media/rock-paper-scissors.5411b83052ff9f612af7.mp4",
+    "static/media/calculatorApp.mp4": "/mywebsite/static/media/calculatorApp.6a649a1ca00dc68fa7e1.mp4",
+    "static/media/multi-stepForm.mp4": "/mywebsite/static/media/multi-stepForm.96f9b655e081104b0c79.mp4",
+    "static/media/results-summary-component.mp4": "/mywebsite/static/media/results-summary-component.278ebb92bfb0b1898344.mp4",
+    "static/media/memes.mp4": "/mywebsite/static/media/memes.352b16b24d2ebc7ae186.mp4",
+    "static/media/rating-component.mp4": "/mywebsite/static/media/rating-component.59a63aea104f9f9d5da8.mp4",
+    "static/media/comming-soon.mp4": "/mywebsite/static/media/comming-soon.7522b6fd1eb6608a551a.mp4",
+    "static/media/certification_database.png": "/mywebsite/static/media/certification_database.e0ff9f28c7614751afe5.png",
+    "static/media/certificat_front.png": "/mywebsite/static/media/certificat_front.07446d9527aa6b9fc1a7.png",
+    "static/media/certification_AI.png": "/mywebsite/static/media/certification_AI.cb89d94f9b389d803a51.png",
+    "static/media/Tenzies Game.mp4": "/mywebsite/static/media/Tenzies Game.8db639dd0860f0fb6e6a.mp4",
+    "static/media/certification_Cloud.png": "/mywebsite/static/media/certification_Cloud.b06c91eeaff898d81515.png",
+    "static/media/certification_back.png": "/mywebsite/static/media/certification_back.dce57085cbfb7592eeb9.png",
+    "static/media/NotesAppReact.mp4": "/mywebsite/static/media/NotesAppReact.7f8050fbe67ff960e5c8.mp4",
+    "static/media/lilia.png": "/mywebsite/static/media/lilia.dac00961ba81a8c91519.png",
+    "index.html": "/mywebsite/index.html",
+    "static/media/icon-close.svg": "/mywebsite/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
+    "static/media/icon-menu.svg": "/mywebsite/static/media/icon-menu.c6107d03f1edcf73523ebd8cbc50a443.svg",
+    "main.1de0f3c1.css.map": "/mywebsite/static/css/main.1de0f3c1.css.map",
+    "main.262826b2.js.map": "/mywebsite/static/js/main.262826b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de0f3c1.css",
+    "static/js/main.262826b2.js"
+  ]
+}
